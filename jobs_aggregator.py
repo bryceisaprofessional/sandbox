@@ -1,7 +1,7 @@
 # Short crawler to pull job postings from engineerjobs.com
-# Location set to Toronto
-# Pages returned can be set
-# Posted in the last 14 days
+# Features to generalize url might be added. For now, copy the URL with the location and post date
+# and set the number of pages to return. 
+# I plan to make this smarter
 
 import urllib
 import sys
